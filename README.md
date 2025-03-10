@@ -1,10 +1,5 @@
 # ColorCorrection-Murals
 
-[Dong Sui]1, [Nanting Song]1
-
-<sup>1</sup> Kyung Hee University, MLVC Lab., Republic of Korea  
-<sup>2</sup> Jashore University of Science and Technology, Bangladesh  
-<sup>3</sup> Adobe Research, USA  
 
 This repository is the official PyTorch implementation of "Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model".
 
