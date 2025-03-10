@@ -1,8 +1,6 @@
 # ColorCorrection-Murals
 
 
-This repository is the official PyTorch implementation of "Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model".
-
 ## 🔭 Requirements
 
 ```
