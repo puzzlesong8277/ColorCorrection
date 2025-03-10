@@ -1,0 +1,49 @@
+Device:  cpu
+Random seed: 5757
+The number of Data:  4
+Device:  cpu
+Epoch 1/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+Epoch 2/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+
+[ Validation at epoch 2 ]
+img_scan torch.Size([3, 512, 512])
+Name: 1_45_13.png  PSNR 7.427680015563965
+
+Average Validation PSNR: 7.427680015563965
+
+Epoch 3/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+Epoch 4/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+
+[ Validation at epoch 4 ]
+img_scan torch.Size([3, 512, 512])
+Name: 1_45_13.png  PSNR 7.427680015563965
+
+Average Validation PSNR: 7.427680015563965
+
+Epoch 5/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+Epoch 6/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+
+[ Validation at epoch 6 ]
+img_scan torch.Size([3, 512, 512])
+Name: 1_45_13.png  PSNR 7.427680015563965
+
+Average Validation PSNR: 7.427680015563965
+
+Epoch 7/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+Epoch 8/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+
+[ Validation at epoch 8 ]
+img_scan torch.Size([3, 512, 512])
+Name: 1_45_13.png  PSNR 7.427680015563965
+
+Average Validation PSNR: 7.427680015563965
+
+Epoch 9/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+Epoch 10/10 | Loss: 0.00000 | Learning Rate: 3.000e-04
+
+[ Validation at epoch 10 ]
+img_scan torch.Size([3, 512, 512])
+Name: 1_45_13.png  PSNR 7.427680015563965
+
+Average Validation PSNR: 7.427680015563965
+
